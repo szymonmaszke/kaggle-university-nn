@@ -1,3 +1,19 @@
+# Ignore experiment tracking (too big for GitHub)
+tracking
+
+# Ignore submissions (keep only tracking with description)
+submissions
+
+# Ignore generated predictions (keep only tracking)
+predictions
+
+# Ignore saved data (too big for Github)
+preprocessing/algorithmic_data.csv
+preprocessing/variance_data.csv
+
+# Input data
+input
+
 # Ignore vim tags
 tags
 
